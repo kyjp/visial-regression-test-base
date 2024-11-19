@@ -1,0 +1,8 @@
+.envファイルに下記を記載
+USERNAME=
+PASSWORD=
+
+スクリーンショットは__screenshots__に格納
+.reg以下のactualとexpectedに画像をおいてdiffに比較画像を吐き出す
+
+スクリーンショットの撮影速度はsourceをいじることで変更可能
